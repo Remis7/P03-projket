@@ -18,5 +18,14 @@
     <ClCompile Include="P03 projekt.cpp">
       <Filter>Zdrojové soubory</Filter>
     </ClCompile>
+    <ClCompile Include="Matica.h">
+      <Filter>Hlavičkové soubory</Filter>
+    </ClCompile>
+    <ClCompile Include="Racionalne.h">
+      <Filter>Hlavičkové soubory</Filter>
+    </ClCompile>
+    <ClCompile Include="SusLinRovnic.h">
+      <Filter>Hlavičkové soubory</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
