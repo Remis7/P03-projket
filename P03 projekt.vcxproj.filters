@@ -15,8 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="P03 projekt.cpp">
+    <ClCompile Include="Racionalne.cpp">
       <Filter>Zdrojové soubory</Filter>
     </ClCompile>
+    <ClCompile Include="Matica.cpp">
+      <Filter>Zdrojové soubory</Filter>
+    </ClCompile>
+    <ClCompile Include="SusLinRovnic.cpp">
+      <Filter>Zdrojové soubory</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Zdrojové soubory</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Racionalne.h">
+      <Filter>Zdrojové soubory</Filter>
+    </ClInclude>
+    <ClInclude Include="Matica.h">
+      <Filter>Zdrojové soubory</Filter>
+    </ClInclude>
+    <ClInclude Include="SusLinRovnic.h">
+      <Filter>Zdrojové soubory</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

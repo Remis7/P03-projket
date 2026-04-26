@@ -124,7 +124,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="P03 projekt.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Matica.cpp" />
+    <ClCompile Include="Racionalne.cpp" />
+    <ClCompile Include="SusLinRovnic.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Matica.h" />
+    <ClInclude Include="Racionalne.h" />
+    <ClInclude Include="SusLinRovnic.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
